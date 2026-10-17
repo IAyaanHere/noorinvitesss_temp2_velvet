@@ -112,7 +112,7 @@ window.INVITATION_CONFIG = {
     name: "Noor Invites",
     address:
       "Mahal, Nagpur",
-    mapUrl: "https://share.google/j4DfZfI5dsbrdR8Up",
+    mapUrl: "https://maps.app.goo.gl/kCnVABdodoYid3kaA?g_st=ic",
   },
 
 dressCode: {
@@ -134,21 +134,21 @@ dressCode: {
       date: "October 15",
       time: "4:00 PM",
       location: "Bride’s Residence",
-      mapLink: "https://share.google/j4DfZfI5dsbrdR8Up",
+      mapLink: "https://maps.app.goo.gl/kCnVABdodoYid3kaA?g_st=ic",
     },
     {
       name: "Qawwali Evening",
       date: "October 17",
       time: "7:00 PM",
       location: "Groom's Residence",
-      mapLink: "https://share.google/j4DfZfI5dsbrdR8Up",
+      mapLink: "https://maps.app.goo.gl/kCnVABdodoYid3kaA?g_st=ic",
     },
     {
       name: "Walima",
       date: "October 19",
       time: "7:30 PM",
       location: "Blue Lagoon, ECR, Chennai",
-      mapLink: "https://share.google/j4DfZfI5dsbrdR8Up",
+      mapLink: "https://maps.app.goo.gl/kCnVABdodoYid3kaA?g_st=ic",
     },
   ],
 
